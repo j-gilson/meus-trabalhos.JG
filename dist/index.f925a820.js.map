@@ -1,0 +1,1 @@
+{"mappings":"AAAA;AACA,IAAI,IAAI;AACR,MAAM","sources":["dist/index.js"],"sourcesContent":["\"use strict\";\nlet m = \"Óla, Gilson Rebouças !!!\";\nalert(m);\n"],"names":[],"version":3,"file":"index.f925a820.js.map","sourceRoot":"/__parcel_source_root/"}
